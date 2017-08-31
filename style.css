@@ -150,7 +150,7 @@ header .navbar {
 }
 
 .home-text span {
-	color: #f20101;
+	color: #00f;
 	font-weight: 700;
   border-bottom: 5px solid #f00;
 }
@@ -209,7 +209,7 @@ header .navbar {
 
 .single-item {
 	border: 2px solid #f20101;
-  border-color: #0f0;
+  border-bottom-color: #0f0;
 	margin-top: 50px;
 	transition: all 0.6s;
   padding: 0;
@@ -217,7 +217,7 @@ header .navbar {
 
 .single-item i {
 	font-size: 80px;
-	color: #f20101;
+	color: #FFFFFF;
 	padding: 15px;
   opacity: 0.5;
 }
