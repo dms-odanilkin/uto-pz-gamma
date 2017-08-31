@@ -4,6 +4,7 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+
 	<title>ROBOTX</title>
 	<link href='https://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
 	<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700,600' rel='stylesheet' type='text/css'>
@@ -13,11 +14,12 @@
 	<link rel="stylesheet" href="css/prettyPhoto.css">
 	<link href="style.css" rel="stylesheet">
 	<link href="css/responsive.css" rel="stylesheet">
+
+
 	<!--[if lt IE 9]>
 	<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
 	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
 	<![endif]-->
-	<link rel="stylesheet" href="css/empty.css">
 </head>
 <body>
 <header>
@@ -122,7 +124,7 @@
 		<div class="row">
 			<div class="col-md-12  wow bounce">
 				<div class="section-heading text-center text-uppercase  wow bounceInUp">
-					<h2>OUR <span>Best SERV's</span></h2>
+					<h2>OUR <span>SERVICeS</span></h2>
 				</div>
 			</div>
 		</div>
@@ -134,6 +136,7 @@
 				<div class="single-item text-center">
 					<i class="fa fa-laptop"></i>
 					<h4 class="text-uppercase">Responsive Design</h4>
+
 					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut.</p>
 					<a href="#" class="btn btn-red text-uppercase">more</a>
 				</div>
@@ -142,6 +145,7 @@
 				<div class="single-item text-center">
 					<i class="fa fa-globe"></i>
 					<h4 class="text-uppercase">Web Development</h4>
+
 					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut.</p>
 					<a href="#" class="btn btn-red text-uppercase">more</a>
 				</div>
@@ -150,6 +154,7 @@
 				<div class="single-item text-center">
 					<i class="fa fa-cloud"></i>
 					<h4 class="text-uppercase">Web hosting</h4>
+
 					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod eiusmod tempor incididunt
 						ut.</p>
 					<a href="#" class="btn btn-red text-uppercase">more</a>
@@ -159,6 +164,7 @@
 				<div class="single-item text-center">
 					<i class="fa fa-mobile"></i>
 					<h4 class="text-uppercase">Mobile Apps</h4>
+
 					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit,eiusmodi veiusmod tempor incididunt
 						ut.</p>
 					<a href="#" class="btn btn-red text-uppercase">more</a>
@@ -279,21 +285,6 @@
 			</div>
 			<div class="wp-bar bar">
 				<div class="col-sm-3 col-xs-3">
-					<h4>Drink Coffe</h4>
-				</div>
-				<div class="col-sm-8 col-xs-8">
-					<div class="progress">
-						<div class="progress-bar" role="progressbar" aria-valuenow="100"
-						     aria-valuemin="0" aria-valuemax="100" style="width:100%">
-						</div>
-					</div>
-				</div>
-				<div class="col-sm-1 col-xs-1">
-					<h4>99%</h4>
-				</div>
-			</div>
-			<div class="wp-bar bar">
-				<div class="col-sm-3 col-xs-3">
 					<h4>CSS3</h4>
 				</div>
 				<div class="col-sm-8 col-xs-8">
@@ -337,7 +328,6 @@
 						labore et dolore magna aliqua. Ut enim ad minim veniam, quis fugiat nulla pariatur.
 						Excepteur sint occaecat cupidatat nonenim ad minim veniam, proident, sunt in culpa qui officia
 						deserunt.</p>
-					<p>Биуретовая реакция, как следует из вышесказанного, обуславливает сахар. Воздействие в принципе взвешивает продукт реакции, что неудивительно. Бином Ньютона диссоциирует рацемический голубой гель.</p>
 				</div>
 			</div>
 
@@ -472,7 +462,7 @@
 						<h3>Pro Package</h3>
 						<i class="fa fa-lightbulb-o"></i>
 
-						<h1><sup>€</sup>99<sub>.00 / меc</sub></h1>
+						<h1><sup>€</sup>108<sub>.90 / меc</sub></h1>
 					</div>
 					<div class="price-bottom">
 						<p>Lorem ipsum dolor sit</p>
@@ -484,7 +474,7 @@
 						<p> Musmod tempor</p>
 
 						<p>Vcididunt ut labore </p>
-						<a href="#" class="btn text-uppercase">SUBSCRIBE NOW <i class="fa fa-edit"></i></a>
+						<a href="#" class="btn text-uppercase">ПОДПИШИСЬ СЕЙЧАС <i class="fa fa-edit"></i></a>
 					</div>
 				</div>
 			</div>
@@ -494,7 +484,7 @@
 						<h3>Standard Package</h3>
 						<i class="fa fa-globe"></i>
 
-						<h1><sup>€</sup>110<sub>.00 / меc</sub></h1>
+						<h1><sup>€</sup>121<sub>.00 / меc</sub></h1>
 					</div>
 					<div class="price-bottom">
 						<p>Lorem ipsum dolor sit</p>
@@ -506,7 +496,7 @@
 						<p> Musmod tempor</p>
 
 						<p>Vcididunt ut labore </p>
-						<a href="#" class="btn text-uppercase">SUBSCRIBE NOW <i class="fa fa-edit"></i></a>
+						<a href="#" class="btn text-uppercase">ПОДПИШИСЬ СЕЙЧАС <i class="fa fa-edit"></i></a>
 					</div>
 				</div>
 			</div>
@@ -516,7 +506,7 @@
 						<h3>Basic Package</h3>
 						<i class="fa fa-clock-o"></i>
 
-						<h1><sup>€</sup>150<sub>.00 / меc</sub></h1>
+						<h1><sup>€</sup>165<sub>.00 / меc</sub></h1>
 					</div>
 					<div class="price-bottom">
 						<p>Lorem ipsum dolor sit</p>
@@ -528,7 +518,7 @@
 						<p> Musmod tempor</p>
 
 						<p>Vcididunt ut labore </p>
-						<a href="#" class="btn text-uppercase">SUBSCRIBE NOW <i class="fa fa-edit"></i></a>
+						<a href="#" class="btn text-uppercase">ПОДПИШИСЬ СЕЙЧАС <i class="fa fa-edit"></i></a>
 					</div>
 				</div>
 			</div>
@@ -546,11 +536,7 @@
 
 				<div class="latest-news">
 
-<<<<<<< HEAD
 					<h3><i class="fa fa-play"></i> Latest News</h3>
-=======
-					<h3>Последние новости</h3>
->>>>>>> savbranch
 
 					<div class="news-content">
 						<div class="news-date">
@@ -714,24 +700,37 @@
 				<form action="#">
 
 					<div class="col-sm-4">
+<<<<<<< HEAD
+						<label for="usr" style="color: blue;" rel="verschillend">Ваше имя</label>
+=======
 						<label for="usr">Your Name</label>
+>>>>>>> origin/lkrychkov_branch
 						<input type="text" class="form-control" id="usr">
 					</div>
 					<div class="col-sm-4">
-						<label for="email">Ваш Email<span><b>*</b></span></label>
+						<label for="email" style="color: blue;" rel="verschillend">Ваш Email<span><b>*</b></span></label>
 						<input type="email" class="form-control" id="email">
 					</div>
 					<div class="col-sm-4">
-						<label for="number">Номер телефона</label>
+						<label for="number" style="color: blue;" rel="verschillend">Номер телефона</label>
 						<input type="text" class="form-control" id="number">
 					</div>
 					<div class="col-sm-12">
+<<<<<<< HEAD
+						<label for="massage" style="color: blue;" rel="verschillend">Массаж ))</label>
+
+=======
 						<label for="massage">Your Massage</label>
+>>>>>>> origin/lkrychkov_branch
 						<textarea class="form-control" rows="10" id="massage"></textarea>
 
 						<button type="submit" class="btn red-btn"> SEND YOUR MESSAGE</button>
 					</div>
+<<<<<<< HEAD
+					
+=======
 
+>>>>>>> origin/lkrychkov_branch
 				</form>
 			</div>
 		</div>
@@ -746,7 +745,11 @@
 			</div>
 			<div class="col-sm-8">
 				<div class="footer-p text-center">
+<<<<<<< HEAD
+					<p>&copy; Copyright 2014 - 2019, All Rights Reserved, Designed by: <a href="https://ya.ru/">Вася Пупкин</a></p>
+=======
 					<p>© Copyright 2014 - 2015, All Rights Reserved, Designed by: www.designoatmeal.com</p>
+>>>>>>> origin/lkrychkov_branch
 				</div>
 			</div>
 			<div class="col-sm-2">
